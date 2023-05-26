@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-26T18:27:23 IST" name="Default suite" finished-at="2023-05-26T18:27:35 IST" duration-ms="11809">
+    <groups>
+    </groups>
+    <test started-at="2023-05-26T18:27:23 IST" name="Default test" finished-at="2023-05-26T18:27:35 IST" duration-ms="11809">
+      <class name="testScripts.SendContactDetailsTest">
+        <test-method is-config="true" signature="classConfig()[pri:0, instance:testScripts.SendContactDetailsTest@708f5957]" started-at="2023-05-26T18:27:23 IST" name="classConfig" finished-at="2023-05-26T18:27:24 IST" duration-ms="1041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classConfig -->
+        <test-method is-config="true" signature="methodConfig()[pri:0, instance:testScripts.SendContactDetailsTest@708f5957]" started-at="2023-05-26T18:27:24 IST" name="methodConfig" finished-at="2023-05-26T18:27:28 IST" duration-ms="4155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodConfig -->
+        <test-method signature="sendContactDetailsTest()[pri:0, instance:testScripts.SendContactDetailsTest@708f5957]" started-at="2023-05-26T18:27:28 IST" name="sendContactDetailsTest" finished-at="2023-05-26T18:27:35 IST" duration-ms="6217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendContactDetailsTest -->
+        <test-method is-config="true" signature="methodTearDown()[pri:0, instance:testScripts.SendContactDetailsTest@708f5957]" started-at="2023-05-26T18:27:35 IST" name="methodTearDown" finished-at="2023-05-26T18:27:35 IST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTearDown -->
+        <test-method is-config="true" signature="classTearDown()[pri:0, instance:testScripts.SendContactDetailsTest@708f5957]" started-at="2023-05-26T18:27:35 IST" name="classTearDown" finished-at="2023-05-26T18:27:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTearDown -->
+      </class> <!-- testScripts.SendContactDetailsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
