@@ -31,7 +31,7 @@ public class AddToCartTest extends BaseClass
 		selenium.clickAddToCart();
 		web.handleAlert("ok");
 		soft.assertEquals(selenium.getMessage(), "Item added to cart");
-		
+		System.out.println("sucessfully added");
 		soft.assertAll();
 		
 	}
