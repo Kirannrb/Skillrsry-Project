@@ -34,6 +34,8 @@ public class AddToCartTest extends BaseClass
 		System.out.println("sucessfully added");
 		soft.assertAll();
 		
+		System.out.print("add to cart");
+		
 	}
 
 }
