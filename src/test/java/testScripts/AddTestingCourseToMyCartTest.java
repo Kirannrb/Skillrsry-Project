@@ -27,6 +27,7 @@ public class AddTestingCourseToMyCartTest extends BaseClass
 		testing.clickFacebook();
 		
 		soft.assertAll();
+		System.out.println("done");
 	}
 
 }
